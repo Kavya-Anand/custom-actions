@@ -1,5 +1,5 @@
 #action.yaml
-name: Send email on failure
+name: Send email notification on failure
 description: for sending failure email
 author: KKumari
 branding:
